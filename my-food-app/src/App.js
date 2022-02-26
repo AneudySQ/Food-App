@@ -1,6 +1,6 @@
 
 import React from 'react';
-import  './scss/app.scss';
+import  './scss/custom.scss';
 
 
 function App() {
